@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>README.md</name>
+			<type>1</type>
+			<location>C:/Users/leand/git/java_hometask_1/README.md</location>
+		</link>
+	</linkedResources>
 </projectDescription>
